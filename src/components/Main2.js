@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 
 const Main2 = () => {
   const [x, setx] = useState(0);
